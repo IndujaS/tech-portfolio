@@ -19,10 +19,9 @@ Write it in first (I) or third (Your Name Here) person.
 
 ## Current Role
 
-Software Development Engineer at AWS Redshift
+Software Development Engineer at AWS Redshift in the Storage team
 
 ## Social Media
 
-- Twitter
-- LinkedIn
-- GitHub
+- [LinkedIn](https://www.linkedin.com/in/induja-sreekanthan)
+- [GitHub](https://github.com/IndujaS)
