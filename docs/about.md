@@ -19,11 +19,7 @@ Write it in first (I) or third (Your Name Here) person.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
-
-## Recognition
-
-- 2020 Awesome Woman in Technology Award
+Software Development Engineer at AWS Redshift
 
 ## Social Media
 
