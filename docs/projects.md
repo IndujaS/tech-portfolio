@@ -2,13 +2,8 @@
 id: projects
 title: Projects
 ---
+### Amazon Redshift
 
-Embed any notable projects in this page.
+The first project I worked on at Amazon Redshift was the "Compiler Upgrade" of Redshift Data Plane.
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
-
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
+I also worked on the development and testing for Cross-instance Restores to restore Redshift snapshots to clusters that have different sizes and/or different node types. For more details: [announcement](https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-redshift-launches-cross-instance-restore/).
