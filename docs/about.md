@@ -3,23 +3,13 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+I am a Software Development Engineer at Amazon, working on Amazon Redshift in AWS. Amazon Redshift is a fully managed, petabyte-scale data warehouse service in the cloud. I am a part of the Storage team in Redshift, working on the storage engine for the Redshift database.
 
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
-
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+Before joining Amazon, I graduated from UC San Diego, with a Master's in Computer Science. I completed my undergraduate studies from IIT Kharagpur with a B.Tech in Electrical Engineering.
 
 ## Current Role
 
-Software Development Engineer at AWS Redshift in the Storage team
+Software Development Engineer, Amazon Redshift
 
 ## Social Media
 
